@@ -3,7 +3,7 @@ Highly Abstract
 
 ## An investigation of High Level Abstract Concepts (HLACs) evoked by images
 
-This project aims to **investigate, model, and experiment with how HLACs** (such as violence, power, peace, or destruction) **are detected by humans and machines in images**. It specifically focuses on the detection of such concepts in (visual) art images. Goals of this work include:
+This project aims to **investigate, model, and experiment with how HLACs** (such as *violence, power, peace*, or *destruction*) **are detected by humans and machines in images**. It specifically focuses on the detection of such concepts in (visual) art images. Goals of this work include:
 * Identification of a set of HLACs that is used to tag the non-concrete content of (art) images.
 * Creation of a dataset of images and HLACs evoked by them.
 * For (art) images tagged by experts with the same HLACs, identification of common features.
