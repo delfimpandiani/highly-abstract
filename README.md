@@ -22,5 +22,5 @@ Next steps include:
 * Collection of images from other datasets, including the Catalogue of Cultural Heritage of the Italian Government, tagged with selected HLACs.
 
 
-The use of Tate images in the context of this non-commercial, educational research falls within the within the [Tate Images Terms of use](https://www.tate.org.uk/about-us/policies-and-procedures/website-terms-use): "Website content that is Tate copyright may be reproduced for the non-commercial purposes of research, private study, criticism and review, or for limited circulation within an educational establishment (such as a school, college or university)."
+The use of Tate images in the context of this non-commercial, educational research project falls within the within the [Tate Images Terms of use](https://www.tate.org.uk/about-us/policies-and-procedures/website-terms-use): "Website content that is Tate copyright may be reproduced for the non-commercial purposes of research, private study, criticism and review, or for limited circulation within an educational establishment (such as a school, college or university)."
 
