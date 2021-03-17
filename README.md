@@ -16,8 +16,8 @@ The starting point is one of the richest datasets that include abstract concepts
 In order to understand the breadth, abstraction level, and hierarchy of subject tags, I reconstructed the hierarchy of the [Tate subject data](https://github.com/tategallery/collection/tree/master/processed/subjects) by transforming it into a skos-based `RDF` file in Turtle `.ttl` format. [SKOS](https://www.w3.org/TR/skos-primer/#sechierarchy) was used as an initial step because of its simple way to assert that one concept is broader in meaning (i.e. more general) than another, with the skos:broader property. The skos:narrower property is used to assert the inverse, namely when one concept is narrower in meaning (i.e. more specific) than another. Additionally, I used the `Graphviz` module in order to visualize the hierchy. All code used to create the `.ttl` files as well as the graphviz style edges is available in `functions.py`.
 
 Next steps include:
-* Formalization of the namespace for the RDF resources create in the context of this project (potentially within ArCo).
-* Selecting a set of HLACs to begin the study. 
+* Formalization of the namespace for the RDF resources created in the context of this project (potentially within ArCo).
+* Selection of a set of HLACs to begin the study (most likely starting from "universal concepts" category within the Tate subject hierarchy).
 * Collection of images of Tate artworks tagged with selected HLACs.
 * Collection of images from other datasets, including the Catalogue of Cultural Heritage of the Italian Government, tagged with selected HLACs.
 
