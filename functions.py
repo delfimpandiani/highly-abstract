@@ -1,5 +1,8 @@
 # ________________________________________________________________
-# This file provides functions to convert the Tate subject data into an RDF file (.ttl), and to create Graphviz-style edges for later visualization
+# This file provides functions to:
+# -- convert the Tate subject data into an RDF file (.ttl)
+# -- create Graphviz-style edges for later visualization
+# -- use those edges with Graphviz to create pdfs of hierarchy of concepts
 # ________________________________________________________________
 
 import json
@@ -65,7 +68,7 @@ def get_skosed_unordered(newdict, topConcepts, level1list, level2list):
 		print('@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .', file=f)
 		print('@prefix skos: <http://www.w3.org/2004/02/skos/core#> .', file=f)
 		print('@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .', file=f)
-		print('@prefix : <http://hlacontology.com/> .\n', file=f)
+		print('@prefix : <https://w3id.org/hlac/> .\n', file=f)
 		for key, value in newdict.items():
 			if key in topConcepts:
 				print(':' + str(key), file=f)
@@ -107,7 +110,7 @@ def get_skosed_ordered(newdict, topConcepts, level1list, level2list):
 		print('@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .', file=g)
 		print('@prefix skos: <http://www.w3.org/2004/02/skos/core#> .', file=g)
 		print('@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .', file=g)
-		print('@prefix : <http://hlacontology.com/> .\n', file=g)
+		print('@prefix : <https://w3id.org/hlac/> .\n', file=g)
 		for x in topConcepts:
 			for key, value in newdict.items():
 				if key == x:
@@ -187,8 +190,25 @@ def get_edges_tc(topConcepts, newdict, level1list, level2list):
 								edges_done += 1
 			print("TopConcept '" + str(y) + "' done. Edges done: " + str(edges_done))
 			print("All done. Edges done: " + str(edges_done)) #2393
+	return
 
 # ________________________________________________________________
+
+# ________________________________________________________________
+# outputs graphviz-based pdf for all the concepts
+# ________________________________________________________________
+# def get_gv_pdf(graphname, filename):
+# 	g = Digraph('G', filename=str(graphname), engine='sfdp')
+# 	g.attr(rankdir='LR', size='40,5', overlap='false')
+# 	g.attr('edge', color='blue', arrowsize='.5')
+# 	with open(filename) as f:
+# 		content = f.readlines()
+# 		for edge in content:
+# 			edge
+# 	g.view()
+# 	return
+# ________________________________________________________________
+
 
 
 topConcepts = get_topConcepts()
@@ -198,4 +218,5 @@ get_skosed_unordered(newdict, topConcepts, level1list, level2list)
 get_skosed_ordered(newdict, topConcepts, level1list, level2list)
 get_all_edges(topConcepts, newdict, level1list, level2list)
 get_edges_tc(topConcepts, newdict, level1list, level2list)
-
+# allgraphedges = get_all_edges()
+# get_gv_pdf(alledges.gv, allgraphedges)
