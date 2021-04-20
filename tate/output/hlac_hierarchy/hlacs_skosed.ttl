@@ -1,0 +1,735 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix : <https://w3id.org/hlac/> .
+
+:29
+	 a skos:TopConcept ;
+	 rdfs:label "emotions, concepts and ideas" .
+:132
+	 a skos:TopConcept ;
+	 rdfs:label "religion and belief" .
+:145
+	 a skos:TopConcept ;
+	 rdfs:label "society" .
+:30
+	 a skos:Concept ;
+	 skos:broader :29 ;
+	 rdfs:label "universal concepts" .
+:31
+	 a skos:Concept ;
+	 skos:broader :29 ;
+	 rdfs:label "emotions and human qualities" .
+:133
+	 a skos:Concept ;
+	 skos:broader :132 ;
+	 rdfs:label "Judaeo-Christian imagery" .
+:138
+	 a skos:Concept ;
+	 skos:broader :132 ;
+	 rdfs:label "magic and occultism" .
+:146
+	 a skos:Concept ;
+	 skos:broader :145 ;
+	 rdfs:label "birth to death" .
+:147
+	 a skos:Concept ;
+	 skos:broader :145 ;
+	 rdfs:label "crime and punishment" .
+:149
+	 a skos:Concept ;
+	 skos:broader :145 ;
+	 rdfs:label "education, science and learning" .
+:155
+	 a skos:Concept ;
+	 skos:broader :145 ;
+	 rdfs:label "government and politics" .
+:156
+	 a skos:Concept ;
+	 skos:broader :145 ;
+	 rdfs:label "health and welfare" .
+:157
+	 a skos:Concept ;
+	 skos:broader :145 ;
+	 rdfs:label "sex and relationships" .
+:158
+	 a skos:Concept ;
+	 skos:broader :145 ;
+	 rdfs:label "social comment" .
+:444
+	 a skos:Concept ;
+	 skos:broader :132 ;
+	 rdfs:label "mysticism" .
+:5731
+	 a skos:Concept ;
+	 skos:broader :132 ;
+	 rdfs:label "universal religious imagery" .
+:6927
+	 a skos:Concept ;
+	 skos:broader :145 ;
+	 rdfs:label "lifestyle and culture" .
+:232
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "freedom" .
+:553
+	 a skos:Concept ;
+	 skos:broader :157 ;
+	 rdfs:label "flirtation" .
+:554
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "morality" .
+:572
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "energy" .
+:647
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "isolation" .
+:657
+	 a skos:Concept ;
+	 skos:broader :157 ;
+	 rdfs:label "friendship" .
+:722
+	 a skos:Concept ;
+	 skos:broader :146 ;
+	 rdfs:label "death" .
+:727
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "grief" .
+:758
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "anxiety" .
+:759
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "pessimism" .
+:795
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "horror" .
+:828
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "pollution" .
+:843
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "satire" .
+:847
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "caricature" .
+:863
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "gender" .
+:877
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "dysfunction" .
+:938
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "militarism" .
+:940
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "happiness" .
+:1042
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "fertility" .
+:1060
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "courage" .
+:1113
+	 a skos:Concept ;
+	 skos:broader :157 ;
+	 rdfs:label "prostitution" .
+:1171
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "race" .
+:1306
+	 a skos:Concept ;
+	 skos:broader :156 ;
+	 rdfs:label "poverty" .
+:1308
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "ecology" .
+:1344
+	 a skos:Concept ;
+	 skos:broader :147 ;
+	 rdfs:label "punishment" .
+:1416
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "shock" .
+:1560
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "shame" .
+:1613
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "disbelief" .
+:1627
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "guilt" .
+:1704
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "irony" .
+:1714
+	 a skos:Concept ;
+	 skos:broader :444 ;
+	 rdfs:label "vision" .
+:1715
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "destruction" .
+:1755
+	 a skos:Concept ;
+	 skos:broader :146 ;
+	 rdfs:label "memorial" .
+:1780
+	 a skos:Concept ;
+	 skos:broader :133 ;
+	 rdfs:label "resurrection" .
+:1787
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "torture" .
+:1817
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "despair" .
+:1966
+	 a skos:Concept ;
+	 skos:broader :147 ;
+	 rdfs:label "rape" .
+:1968
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "violence" .
+:2205
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "tenderness" .
+:2209
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "contemplation" .
+:2353
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "decay" .
+:2361
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "illegitimacy" .
+:2438
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "pun" .
+:2470
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "persecution" .
+:2497
+	 a skos:Concept ;
+	 skos:broader :147 ;
+	 rdfs:label "murder" .
+:2520
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "serenity" .
+:2789
+	 a skos:Concept ;
+	 skos:broader :156 ;
+	 rdfs:label "charity" .
+:2815
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "fear" .
+:2928
+	 a skos:Concept ;
+	 skos:broader :146 ;
+	 rdfs:label "mourning" .
+:2982
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "sublime" .
+:3008
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "love" .
+:3026
+	 a skos:Concept ;
+	 skos:broader :444 ;
+	 rdfs:label "shamanism" .
+:3136
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "frustration" .
+:3185
+	 a skos:Concept ;
+	 skos:broader :157 ;
+	 rdfs:label "seduction" .
+:3251
+	 a skos:Concept ;
+	 skos:broader :157 ;
+	 rdfs:label "infidelity" .
+:3465
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "exhilaration" .
+:3527
+	 a skos:Concept ;
+	 skos:broader :157 ;
+	 rdfs:label "homosexuality" .
+:3542
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "power" .
+:3545
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "vulnerability" .
+:3592
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "war" .
+:3672
+	 a skos:Concept ;
+	 skos:broader :444 ;
+	 rdfs:label "spirituality" .
+:3678
+	 a skos:Concept ;
+	 skos:broader :155 ;
+	 rdfs:label "patriotism" .
+:3847
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "humility" .
+:3981
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "menace" .
+:3991
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "slavery" .
+:4063
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "consumerism" .
+:4067
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "sensuality" .
+:4312
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "time" .
+:4320
+	 a skos:Concept ;
+	 skos:broader :138 ;
+	 rdfs:label "haunting" .
+:4357
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "void" .
+:4360
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "displacement" .
+:4372
+	 a skos:Concept ;
+	 skos:broader :155 ;
+	 rdfs:label "revolutionary" .
+:4384
+	 a skos:Concept ;
+	 skos:broader :155 ;
+	 rdfs:label "refugee" .
+:4429
+	 a skos:Concept ;
+	 skos:broader :147 ;
+	 rdfs:label "robbery" .
+:4438
+	 a skos:Concept ;
+	 skos:broader :155 ;
+	 rdfs:label "political belief" .
+:4484
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "silence" .
+:4771
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "mystery" .
+:5052
+	 a skos:Concept ;
+	 skos:broader :147 ;
+	 rdfs:label "execution" .
+:5147
+	 a skos:Concept ;
+	 skos:broader :146 ;
+	 rdfs:label "suicide" .
+:5149
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "hatred" .
+:5339
+	 a skos:Concept ;
+	 skos:broader :155 ;
+	 rdfs:label "political protest" .
+:5345
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "sadness" .
+:5349
+	 a skos:Concept ;
+	 skos:broader :149 ;
+	 rdfs:label "philosophy" .
+:5355
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "child abuse" .
+:5364
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "prejudice" .
+:5391
+	 a skos:Concept ;
+	 skos:broader :444 ;
+	 rdfs:label "transfiguration" .
+:5443
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "humour" .
+:5448
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "ephemerality" .
+:5587
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "existence" .
+:5719
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "danger" .
+:5734
+	 a skos:Concept ;
+	 skos:broader :5731 ;
+	 rdfs:label "blessing" .
+:5741
+	 a skos:Concept ;
+	 skos:broader :5731 ;
+	 rdfs:label "prayer" .
+:5743
+	 a skos:Concept ;
+	 skos:broader :5731 ;
+	 rdfs:label "procession" .
+:5746
+	 a skos:Concept ;
+	 skos:broader :5731 ;
+	 rdfs:label "salvation" .
+:5748
+	 a skos:Concept ;
+	 skos:broader :5731 ;
+	 rdfs:label "soul" .
+:5750
+	 a skos:Concept ;
+	 skos:broader :5731 ;
+	 rdfs:label "worship" .
+:5752
+	 a skos:Concept ;
+	 skos:broader :5731 ;
+	 rdfs:label "sacrifice" .
+:5876
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "creation" .
+:5930
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "transformation" .
+:6006
+	 a skos:Concept ;
+	 skos:broader :157 ;
+	 rdfs:label "transvestism" .
+:6124
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "nostalgia" .
+:6191
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "pride" .
+:6274
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "infinity" .
+:6353
+	 a skos:Concept ;
+	 skos:broader :147 ;
+	 rdfs:label "vandalism" .
+:6709
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "triumph" .
+:6725
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "innocence" .
+:6727
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "wisdom" .
+:6728
+	 a skos:Concept ;
+	 skos:broader :146 ;
+	 rdfs:label "youth" .
+:6730
+	 a skos:Concept ;
+	 skos:broader :157 ;
+	 rdfs:label "eroticism" .
+:6738
+	 a skos:Concept ;
+	 skos:broader :157 ;
+	 rdfs:label "sensuality" .
+:6764
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "foolishness" .
+:6766
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "virtue" .
+:6767
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "creativity" .
+:6780
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "subconscious" .
+:6782
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "heroism" .
+:6787
+	 a skos:Concept ;
+	 skos:broader :149 ;
+	 rdfs:label "language" .
+:6852
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "memory" .
+:6921
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "enclosure" .
+:6923
+	 a skos:Concept ;
+	 skos:broader :133 ;
+	 rdfs:label "sanctuary" .
+:6930
+	 a skos:Concept ;
+	 skos:broader :6927 ;
+	 rdfs:label "fashion" .
+:7046
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "boredom" .
+:7076
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "victim" .
+:7913
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "nationalism" .
+:8598
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "pornography" .
+:8806
+	 a skos:Concept ;
+	 skos:broader :155 ;
+	 rdfs:label "revolution" .
+:8954
+	 a skos:Concept ;
+	 skos:broader :138 ;
+	 rdfs:label "enchantment" .
+:8979
+	 a skos:Concept ;
+	 skos:broader :155 ;
+	 rdfs:label "investiture" .
+:9592
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "cosmos" .
+:9661
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "hypocrisy" .
+:10217
+	 a skos:Concept ;
+	 skos:broader :147 ;
+	 rdfs:label "torture" .
+:10522
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "growth" .
+:10932
+	 a skos:Concept ;
+	 skos:broader :5731 ;
+	 rdfs:label "sin" .
+:11205
+	 a skos:Concept ;
+	 skos:broader :149 ;
+	 rdfs:label "psychology" .
+:11716
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "hope" .
+:12443
+	 a skos:Concept ;
+	 skos:broader :155 ;
+	 rdfs:label "political power" .
+:12609
+	 a skos:Concept ;
+	 skos:broader :149 ;
+	 rdfs:label "education" .
+:12833
+	 a skos:Concept ;
+	 skos:broader :6927 ;
+	 rdfs:label "cultural identity" .
+:12971
+	 a skos:Concept ;
+	 skos:broader :157 ;
+	 rdfs:label "voyeurism" .
+:12977
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "suffering" .
+:13022
+	 a skos:Concept ;
+	 skos:broader :6927 ;
+	 rdfs:label "poetry" .
+:13544
+	 a skos:Concept ;
+	 skos:broader :156 ;
+	 rdfs:label "unemployment" .
+:13553
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "peace" .
+:15454
+	 a skos:Concept ;
+	 skos:broader :133 ;
+	 rdfs:label "sacrament" .
+:15740
+	 a skos:Concept ;
+	 skos:broader :155 ;
+	 rdfs:label "terrorism" .
+:15753
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "desolation" .
+:15754
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "speed" .
+:15834
+	 a skos:Concept ;
+	 skos:broader :147 ;
+	 rdfs:label "exile" .
+:15862
+	 a skos:Concept ;
+	 skos:broader :155 ;
+	 rdfs:label "treason" .
+:15936
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "narcissism" .
+:16166
+	 a skos:Concept ;
+	 skos:broader :5731 ;
+	 rdfs:label "ritual" .
+:16236
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "wealth" .
+:16446
+	 a skos:Concept ;
+	 skos:broader :149 ;
+	 rdfs:label "technology" .
+:16927
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "strength" .
+:17199
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "pomposity" .
+:17248
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "western society" .
+:17309
+	 a skos:Concept ;
+	 skos:broader :6927 ;
+	 rdfs:label "emigration / immigration" .
+:17838
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "gratitude" .
+:17953
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "survival" .
+:17956
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "vitality" .
+:18016
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "regeneration" .
+:18096
+	 a skos:Concept ;
+	 skos:broader :5731 ;
+	 rdfs:label "meditation" .
+:18245
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "uncertainty" .
+:18270
+	 a skos:Concept ;
+	 skos:broader :158 ;
+	 rdfs:label "human rights" .
+:18481
+	 a skos:Concept ;
+	 skos:broader :6927 ;
+	 rdfs:label "design" .
+:21388
+	 a skos:Concept ;
+	 skos:broader :31 ;
+	 rdfs:label "paranoia" .
+:21821
+	 a skos:Concept ;
+	 skos:broader :30 ;
+	 rdfs:label "secrecy" .
