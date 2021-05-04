@@ -1,15 +1,15 @@
 Highly Abstract
 ===============
 
-## An investigation of High Level Abstract Concepts (HLACs) evoked by images
+## An Investigation of Social Concepts evoked by Art Images
 
-This project aims to **investigate, model, and experiment with how and why HLACs** (such as *violence, power, peace*, or *destruction*) **are detected by humans and machines in images**. It specifically focuses on the detection of such concepts in (visual) art images. Goals of this work include:
-* Identification of a set of HLACs that is consistently used to tag the non-concrete content of (art) images.
-* Creation of a dataset of images and HLACs evoked by them.
-* Creation of an HLAC Knowledge Graph (KG).
-* Identification of common features of images tagged by experts with the same HLACs.
-* Automatic detection of highly abstract concepts in previously unseen (art) images.
-* Automatic generation of new images that evoke specific highly abstract concepts.
+This project aims to **investigate, model, and experiment with how and why social concepts** (such as *violence, power, peace*, or *destruction*) **are detected by humans and machines in images**. It specifically focuses on the detection of social concepts referring to non-physical objects in (visual) art images. Goals of this work include:
+* Identification of a set of social concepts that is consistently used to tag the non-concrete content of (art) images.
+* Creation of a dataset of images and social concepts evoked by them.
+* Creation of an Social Concepts Knowledge Graph (KG).
+* Identification of common features of images tagged by experts with the same social concepts.
+* Automatic detection of social concepts in previously unseen (art) images.
+* Automatic generation of new images that evoke specific social concepts.
 
 The starting point is one of the richest datasets that include abstract concepts as tags for the content of visual artworks: the [metadata released by The Tate Collection](https://github.com/tategallery/collection) on Github in 2014. This dataset includes the metadata for around 70,000 artworks that [Tate](http://www.tate.org.uk/) owns or jointly owns with the [National Galleries of Scotland](http://www.nationalgalleries.org) as part of [ARTIST ROOMS](http://www.tate.org.uk/artist-rooms). To tag the content of the artworks in their collection, the Tate uses three levels (0, 1, and 2) of increasing specificity to provide a hierarchy of subject tags (for example; 0 religion and belief, 1 universal religious imagery, 2 blessing). 
 
