@@ -1,0 +1,667 @@
+{
+ "tate_urls": [
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=232&type=object",
+   "n_of_results": "Showing 1–20 of 179 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=553&type=object",
+   "n_of_results": "Showing 1–20 of 45 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=554&type=object",
+   "n_of_results": "Showing 1–20 of 56 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=572&type=object",
+   "n_of_results": "Showing 1–20 of 101 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=647&type=object",
+   "n_of_results": "Showing 1–20 of 290 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=657&type=object",
+   "n_of_results": "Showing 1–20 of 1,532 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=722&type=object",
+   "n_of_results": "Showing 1–20 of 661 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=727&type=object",
+   "n_of_results": "Showing 1–20 of 126 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=758&type=object",
+   "n_of_results": "Showing 1–20 of 1,029 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=759&type=object",
+   "n_of_results": "Showing 1–20 of 45 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=795&type=object",
+   "n_of_results": "Showing 1–20 of 176 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=828&type=object",
+   "n_of_results": "Showing 1–20 of 56 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=843&type=object",
+   "n_of_results": "Showing 1–20 of 241 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=847&type=object",
+   "n_of_results": "Showing 1–20 of 355 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=863&type=object",
+   "n_of_results": "Showing 1–20 of 1,683 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=877&type=object",
+   "n_of_results": "Showing 1–20 of 40 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=938&type=object",
+   "n_of_results": "Showing 1–20 of 589 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=940&type=object",
+   "n_of_results": "Showing 1–20 of 255 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1042&type=object",
+   "n_of_results": "Showing 1–20 of 47 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1060&type=object",
+   "n_of_results": "Showing 1–20 of 56 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1113&type=object",
+   "n_of_results": "Showing 1–20 of 72 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1171&type=object",
+   "n_of_results": "Showing 1–20 of 378 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1306&type=object",
+   "n_of_results": "Showing 1–20 of 154 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1308&type=object",
+   "n_of_results": "Showing 1–20 of 63 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1344&type=object",
+   "n_of_results": "Showing 1–20 of 21 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1416&type=object",
+   "n_of_results": "Showing 1–20 of 141 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1560&type=object",
+   "n_of_results": "Showing 1–20 of 45 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1613&type=object",
+   "n_of_results": "Showing 8 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1627&type=object",
+   "n_of_results": "Showing 1–20 of 36 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1704&type=object",
+   "n_of_results": "Showing 1–20 of 306 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1714&type=object",
+   "n_of_results": "Showing 1–20 of 668 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1715&type=object",
+   "n_of_results": "Showing 1–20 of 384 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1755&type=object",
+   "n_of_results": "Showing 1–20 of 275 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1780&type=object",
+   "n_of_results": "Showing 1–20 of 30 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1787&type=object",
+   "n_of_results": "Showing 1–20 of 59 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1817&type=object",
+   "n_of_results": "Showing 1–20 of 210 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1966&type=object",
+   "n_of_results": "Showing 17 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=1968&type=object",
+   "n_of_results": "Showing 1–20 of 329 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2205&type=object",
+   "n_of_results": "Showing 1–20 of 69 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2209&type=object",
+   "n_of_results": "Showing 1–20 of 142 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2353&type=object",
+   "n_of_results": "Showing 1–20 of 252 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2361&type=object",
+   "n_of_results": "Showing 3 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2438&type=object",
+   "n_of_results": "Showing 1–20 of 53 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2470&type=object",
+   "n_of_results": "Showing 1–20 of 94 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2497&type=object",
+   "n_of_results": "Showing 1–20 of 82 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2520&type=object",
+   "n_of_results": "Showing 1–20 of 35 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2789&type=object",
+   "n_of_results": "Showing 1–20 of 26 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2815&type=object",
+   "n_of_results": "Showing 1–20 of 261 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2928&type=object",
+   "n_of_results": "Showing 1–20 of 93 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=2982&type=object",
+   "n_of_results": "Showing 1–20 of 637 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3008&type=object",
+   "n_of_results": "Showing 1–20 of 508 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3026&type=object",
+   "n_of_results": "Showing 12 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3136&type=object",
+   "n_of_results": "Showing 1–20 of 111 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3185&type=object",
+   "n_of_results": "Showing 15 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3251&type=object",
+   "n_of_results": "Showing 1–20 of 100 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3465&type=object",
+   "n_of_results": "Showing 1–20 of 49 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3527&type=object",
+   "n_of_results": "Showing 1–20 of 1,645 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3542&type=object",
+   "n_of_results": "Showing 1–20 of 207 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3545&type=object",
+   "n_of_results": "Showing 1–20 of 307 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3592&type=object",
+   "n_of_results": "Showing 1–20 of 356 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3672&type=object",
+   "n_of_results": "Showing 1–20 of 726 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3678&type=object",
+   "n_of_results": "Showing 1–20 of 24 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3847&type=object",
+   "n_of_results": "Showing 1–20 of 25 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3981&type=object",
+   "n_of_results": "Showing 1–20 of 207 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=3991&type=object",
+   "n_of_results": "Showing 1–20 of 54 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4063&type=object",
+   "n_of_results": "Showing 1–20 of 102 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4067&type=object",
+   "n_of_results": "Showing 1–20 of 24 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4312&type=object",
+   "n_of_results": "Showing 1–20 of 679 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4320&type=object",
+   "n_of_results": "Showing 12 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4357&type=object",
+   "n_of_results": "Showing 1–20 of 35 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4360&type=object",
+   "n_of_results": "Showing 1–20 of 24 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4372&type=object",
+   "n_of_results": "Showing 1–20 of 178 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4384&type=object",
+   "n_of_results": "Showing 1–20 of 1,972 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4429&type=object",
+   "n_of_results": "Showing 16 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4438&type=object",
+   "n_of_results": "Showing 1–20 of 66 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4484&type=object",
+   "n_of_results": "Showing 1–20 of 57 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=4771&type=object",
+   "n_of_results": "Showing 1–20 of 1,434 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5052&type=object",
+   "n_of_results": "Showing 1–20 of 52 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5147&type=object",
+   "n_of_results": "Showing 1–20 of 30 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5149&type=object",
+   "n_of_results": "Showing 1–20 of 47 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5339&type=object",
+   "n_of_results": "Showing 1–20 of 360 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5345&type=object",
+   "n_of_results": "Showing 1–20 of 202 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5349&type=object",
+   "n_of_results": "Showing 1–20 of 267 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5355&type=object",
+   "n_of_results": "Showing 6 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5364&type=object",
+   "n_of_results": "Showing 1–20 of 83 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5391&type=object",
+   "n_of_results": "Showing 6 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5443&type=object",
+   "n_of_results": "Showing 1–20 of 1,412 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5448&type=object",
+   "n_of_results": "Showing 1–20 of 52 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5587&type=object",
+   "n_of_results": "Showing 1–20 of 292 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5719&type=object",
+   "n_of_results": "Showing 1–20 of 64 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5734&type=object",
+   "n_of_results": "Showing 1–20 of 37 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5741&type=object",
+   "n_of_results": "Showing 1–20 of 103 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5743&type=object",
+   "n_of_results": "Showing 1–20 of 62 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5746&type=object",
+   "n_of_results": "Showing 15 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5748&type=object",
+   "n_of_results": "Showing 1–20 of 34 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5750&type=object",
+   "n_of_results": "Showing 1–20 of 66 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5752&type=object",
+   "n_of_results": "Showing 1–20 of 24 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5876&type=object",
+   "n_of_results": "Showing 1–20 of 29 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=5930&type=object",
+   "n_of_results": "Showing 1–20 of 188 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6006&type=object",
+   "n_of_results": "Showing 1–20 of 25 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6124&type=object",
+   "n_of_results": "Showing 1–20 of 84 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6191&type=object",
+   "n_of_results": "Showing 1–20 of 71 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6274&type=object",
+   "n_of_results": "Showing 18 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6353&type=object",
+   "n_of_results": "Showing 9 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6709&type=object",
+   "n_of_results": "Showing 6 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6725&type=object",
+   "n_of_results": "Showing 1–20 of 39 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6727&type=object",
+   "n_of_results": "Showing 19 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6728&type=object",
+   "n_of_results": "Showing 1–20 of 190 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6730&type=object",
+   "n_of_results": "Showing 1–20 of 394 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6738&type=object",
+   "n_of_results": "Showing 1–20 of 49 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6764&type=object",
+   "n_of_results": "Showing 1–20 of 52 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6766&type=object",
+   "n_of_results": "Showing 12 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6767&type=object",
+   "n_of_results": "Showing 1–20 of 1,330 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6780&type=object",
+   "n_of_results": "Showing 1–20 of 61 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6782&type=object",
+   "n_of_results": "Showing 1–20 of 29 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6787&type=object",
+   "n_of_results": "Showing 1–20 of 56 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6852&type=object",
+   "n_of_results": "Showing 1–20 of 362 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6921&type=object",
+   "n_of_results": "Showing 1–20 of 72 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6923&type=object",
+   "n_of_results": "Showing 1 result"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=6930&type=object",
+   "n_of_results": "Showing 1–20 of 148 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=7046&type=object",
+   "n_of_results": "Showing 1–20 of 49 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=7076&type=object",
+   "n_of_results": "Showing 1–20 of 39 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=7913&type=object",
+   "n_of_results": "Showing 1–20 of 2,014 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=8598&type=object",
+   "n_of_results": "Showing 19 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=8806&type=object",
+   "n_of_results": "Showing 1–20 of 187 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=8954&type=object",
+   "n_of_results": "Showing 10 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=8979&type=object",
+   "n_of_results": "Showing 1 result"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=9592&type=object",
+   "n_of_results": "Showing 1–20 of 28 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=9661&type=object",
+   "n_of_results": "Showing 16 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=10217&type=object",
+   "n_of_results": "Showing 1–20 of 45 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=10522&type=object",
+   "n_of_results": "Showing 1–20 of 36 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=10932&type=object",
+   "n_of_results": "Showing 11 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=11205&type=object",
+   "n_of_results": "Showing 1–20 of 176 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=11716&type=object",
+   "n_of_results": "Showing 1–20 of 70 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=12443&type=object",
+   "n_of_results": "Showing 1–20 of 148 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=12609&type=object",
+   "n_of_results": "Showing 1–20 of 60 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=12833&type=object",
+   "n_of_results": "Showing 1–20 of 7,931 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=12971&type=object",
+   "n_of_results": "Showing 1–20 of 27 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=12977&type=object",
+   "n_of_results": "Showing 1–20 of 166 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=13022&type=object",
+   "n_of_results": "Showing 1–20 of 84 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=13544&type=object",
+   "n_of_results": "Showing 10 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=13553&type=object",
+   "n_of_results": "Showing 1–20 of 66 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=15454&type=object",
+   "n_of_results": "Showing 2 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=15740&type=object",
+   "n_of_results": "Showing 1–20 of 153 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=15753&type=object",
+   "n_of_results": "Showing 1–20 of 135 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=15754&type=object",
+   "n_of_results": "Showing 18 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=15834&type=object",
+   "n_of_results": "Showing 1 result"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=15862&type=object",
+   "n_of_results": "Showing 2 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=15936&type=object",
+   "n_of_results": "Showing 9 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=16166&type=object",
+   "n_of_results": "Showing 16 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=16236&type=object",
+   "n_of_results": "Showing 1–20 of 20 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=16446&type=object",
+   "n_of_results": "Showing 1–20 of 36 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=16927&type=object",
+   "n_of_results": "Showing 1–20 of 88 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=17199&type=object",
+   "n_of_results": "Showing 12 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=17248&type=object",
+   "n_of_results": "Showing 1–20 of 30 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=17309&type=object"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=17838&type=object",
+   "n_of_results": "Showing 1–20 of 161 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=17953&type=object",
+   "n_of_results": "Showing 8 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=17956&type=object",
+   "n_of_results": "Showing 1–20 of 254 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=18016&type=object",
+   "n_of_results": "Showing 10 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=18096&type=object",
+   "n_of_results": "Showing 5 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=18245&type=object",
+   "n_of_results": "Showing 1–20 of 64 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=18270&type=object",
+   "n_of_results": "Showing 1–20 of 298 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=18481&type=object",
+   "n_of_results": "Showing 1–20 of 24 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=21388&type=object",
+   "n_of_results": "Showing 10 results"
+  },
+  {
+   "link": "https://www.tate.org.uk/search?cleared=1&st=21821&type=object",
+   "n_of_results": "Showing 11 results"
+  }
+ ]
+}
