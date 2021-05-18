@@ -1,7 +1,7 @@
-Highly Abstract
+(Highly Abstract) MUSCO - Multimodal Descriptions of Social Concepts
 ===============
 
-## An Investigation of Social Concepts evoked by Art Images
+## Automatic Modeling and Detection of Social Concepts evoked by Art Images
 
 This project aims to **investigate, model, and experiment with how and why social concepts** (such as *violence, power, peace*, or *destruction*) **are detected by humans and machines in images**. It specifically focuses on the detection of social concepts referring to non-physical objects in (visual) art images. Goals of this work include:
 * Identification of a set of social concepts that is consistently used to tag the non-concrete content of (art) images.
