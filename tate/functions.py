@@ -879,7 +879,7 @@ def get_names_objects_and_actions_dict(input_sc):
 	return objects_names, actions_names
 
 ### ________________________________________________________________
-### get_co_stats(): outputs a csv file with match stats for all 166 SCs
+### get_match_stats(): outputs a csv file with match stats for all 166 SCs
 ######### outputs output/match_stats.csv
 ### ________________________________________________________________
 def get_match_stats():
@@ -1056,7 +1056,7 @@ def get_avg_sc_contrast(sc):
 # ________________________________________________________________
 # ________________________________________________________________
 # CO TAG ANALYSIS
-# get_objects_and_actions_dict(572)
+get_objects_and_actions_dict(572)
 # get_names_objects_and_actions_dict(795)
 # get_match_stats()
 #________________________________________________________________
