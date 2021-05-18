@@ -28,15 +28,15 @@ This repository holds the `functions.py` file, which defines functions for
 * Corpus creation: matching social concept to art images (`get_sc_artworks_dict()` and `get_match_details(input_sc)`)
 * Co-occuring tag collection and analysis (`get_all_scs_tag_ids()`, `get_objects_and_actions_dict(input_sc)`, and `get_match_stats()`)
 * Image dominant color analyses (`get_dom_colors()` and `get_avg_sc_contrast()`)
-*
+
 In order to understand the breadth, abstraction level, and hierarchy of subject tags, I reconstructed the hierarchy of the [Tate subject data](https://github.com/tategallery/collection/tree/master/processed/subjects) by transforming it into a `RDF` file in Turtle `.ttl` format with the MUSCO ontology. [SKOS](https://www.w3.org/TR/skos-primer/#sechierarchy) was used as an initial step because of its simple way to assert that one concept is broader in meaning (i.e. more general) than another, with the skos:broader property. Additionally, I used the `Graphviz` module in order to visualize the hierchy.
 
 Next steps include:
-* Formalization of the namespace for the RDF resources created in the context of this project (potentially within ArCo).
-* Selection of a set of HLACs to begin the study (most likely starting from "universal concepts" category within the Tate subject hierarchy).
-* Collection of images of Tate artworks tagged with selected HLACs.
-* Collection of images from other datasets, including the Catalogue of Cultural Heritage of the Italian Government, tagged with selected HLACs.
-
+* Automatic population of a KG with the extracted data
+* Disambiguating the terms, expanding the terminology by leveraging lexical resources such as WordNet, VerbNet, and FrameNet, and studying the terms’ distributional linguistic features.
+* MUSCO’s modular infrastructure allows expansion of types of integrated data (potentially including: other co-occurring social concepts, contrast measures, common shapes, repetition, and other visual patterns, other senses (e.g., sound), facial recognition analysis, distributional semantics information)
+* Refine initial social concepts list, through alignment with the latest cognitive science research as well as through user-based studies.
+* Enlarge and diversify art image corpus after a survey of additional catalogues and collections.
+* Distinguishing artwork medium types
 
 The use of Tate images in the context of this non-commercial, educational research project falls within the within the [Tate Images Terms of use](https://www.tate.org.uk/about-us/policies-and-procedures/website-terms-use): "Website content that is Tate copyright may be reproduced for the non-commercial purposes of research, private study, criticism and review, or for limited circulation within an educational establishment (such as a school, college or university)."
-
